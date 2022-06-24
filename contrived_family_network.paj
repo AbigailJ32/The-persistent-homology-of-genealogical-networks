@@ -1,0 +1,704 @@
+*Network Ore graph my-family.puc
+
+*vertices 256
+1 'Abby' ellipse
+2 'Emma J.' ellipse
+3 'Aaron G.J.' triangle
+4 'Ellie B.J.' ellipse
+5 'Tom' triangle
+6 'Gina' ellipse
+7 'Gdp Roger' triangle
+8 'Gdm Nel' elllipse
+9 'Gdm Bonnie' ellipse
+10 'Gdp Jim' triangle
+11 'Uncle Paul' triangle
+12 'Aunt Rachel' ellipse
+13 'C. Mary Ruth' ellipse
+14 'C. Andrew' triangle
+15 'C. Eliza' ellipse
+16 'C. Michael' triangle
+17 'C. Timothy' triangle
+18 'C. Sarah' ellipse
+19 'Uncle Peter' triangle
+20 'Aunt Jules' ellipse
+21 'C. Hope' ellipse
+22 'Aunt Liz' ellipse
+23 'Uncle John' triangle
+24 'Aunt Mary' ellipse
+25 'C. Margaret' ellipse
+26 'C. Nathanial' triangle
+27 'Aunt Bec' ellipse
+28 'Uncle Nathan' triangle
+29 'Uncle Brian' triangle
+30 'Aunt Adri' ellipse
+31 'C. Allie' ellipse
+32 'C.iL Tyler' triangle
+33 'C. Aubree' ellipse
+34 'C.iL LaGrande' triangle
+35 'MJ' ellipse
+36 'C. Alese' ellipse
+37 'Grant Jenkins' triangle
+38 'Luana Ripplinger' ellipse
+39 'Archie Madsen' triangle
+40 'Charlotte Brinckman' ellipse
+41 'Orval Harmer' triangle
+42 'Donna James' ellipse
+43 'Don Peterson sr' triangle
+44 'Madge Harris' ellipse
+45 'Ned' triangle
+46 'Glenn Madsen' triangle
+47 'Carol Madsen' ellipse
+48 'Jac Madsen' triangle
+49 'Sarah Madsen' ellipse
+50 'kid 1' ellipse
+51 'kid 2' ellipse
+52 'kid 3' ellipse
+53 'Aaron Madsen' triangle
+54 'Erin Madsen' ellipse
+55 'kid 4' ellipse
+56 'kid 5' ellipse
+57 'Ben Madsen' triangle
+58 'Alyssa Madsen' ellipse
+59 'kid 6' triangle
+60 'kid 7' triangle
+61 'kid 8' triangle
+62 'kid 9' triangle
+63 'Lonelle Madsen' ellipse
+64 'kid 10' ellipse
+65 'kid 11' ellipse
+66 'Joel Madsen 1' triangle
+67 'Kirsti Madsen' ellipse
+68 'kid 12' triangle
+69 'Suzanne Call' ellipse
+70 'Rob Call' triangle
+71 'Anna Kremer' ellipse
+72 'Aaron Kremer' triangle
+73 'kid 13' triangle
+74 'kid 14' triangle
+75 'kid 15' ellipse
+76 'Adam Call' triangle
+77 'Emily Call' ellipse
+78 'kid 16' triangle
+79 'kid 17' ellipse
+80 'kid 18' ellipse
+81 'Aaron Call' triangle
+82 'Amy Call' ellipse
+83 'kid 19' triangle
+84 'Andrew Call' triangle
+85 'Sara Call' ellipse
+86 'Fiorella' ellipse
+87 'Joel Madsen 2' triangle
+88 'Scott Jenkins' triangle
+89 'Sandy Brass Jenkins' ellipse
+90 'Jennifer Jenkins (Jenn)' ellipse
+91 'Julienne Jenkins' ellipse
+92 'Jaelynn Jenkins' ellipse
+93 'Melidee Barton' ellipse
+94 'Glen Barton' triangle
+95 'Raelynn' ellipse
+96 'Sam' triangle
+97 'Kate' ellipse
+98 'Quinn' triangle
+99 'Eric Barton' triangle
+100 'Emily Stone Barton' ellipse
+101 'Lucas Barton' triangle
+102 'Alex Barton' ellipse
+103 'Ryder Barton' triangle
+104 'Rachel' ellipse
+105 'Todd' triangle
+106 'Ethan' triangle
+107 'Madelyn' ellipse
+108 'kid 20' triangle
+109 'Penny Curtis' ellipse
+110 'Don Curtis' triangle
+111 'Ross Curtis' triangle
+112 'Anna Curtis' ellipse
+113 'kid 21' ellipse
+114 'kid 22' ellipse
+115 'kid 23' ellipse
+116 'kid 24' ellipse
+117 'kid 25' ellipse
+118 'Stormie Curtis' ellipse
+119 'Jer West' triangle
+120 'Miyah West' ellipse
+121 'Misty West' ellipse
+122 'Jonah West' triangle
+123 'Shelby West' ellipse
+124 'Shane Curtis' triangle
+125 'Callie Curtis' ellipse
+126 'kid 26' ellipse
+127 'kid 27' triangle
+128 'kid 28' triangle
+129 'Rachelle Gardner' ellipse
+130 'Reid Gardner' triangle
+131 'Nicole Curtis' ellipse
+132 'James Jenkins (big fat uncle)' triangle
+133 'Jennie Jenkins' ellipse
+134 'James Jenkins (the younger)' triangle
+135 'Megan Jenkins' ellipse
+136 'Tucker Jenkins' triangle
+137 'Olivia Jenkins' ellipse
+138 'Jill Kocher' ellipse
+139 'Bill Kocher' triangle
+140 'Finn Kocher' triangle
+141 'Janey Jenkins' ellipse
+142 'Joy Keeling' ellipse
+143 'David Keeling' triangle
+144 'Joseph Jenkins' triangle
+145 'Jade Jenkins' ellipse
+146 'Don Peterson jr' triangle
+147 'Marsha Peterson' ellipse
+148 'Travis Peterson' triangle
+149 'spouse 1' ellipse
+150 'Luke 12' triangle
+151 'spouse 2' ellipse
+152 'Clint 12' triangle
+153 'spouse 3' ellipse
+154 'Sarah 1' ellipse
+155 'spouse 4' triangle
+156 'Quinn 1' triangle
+157 'Eloise 12' ellipse
+158 'David 12' triangle
+159 'David (the younger)' triangle
+160 'spouse 5' ellipse
+161 'Jenny 1' ellipse
+162 'Chris 1' triangle
+163 'Chad 1' triangle
+164 'Patricia 1' ellipse
+165 'Sam 1' triangle
+166 'Rachel 1' ellipse
+167 'Cheryl 1' ellipse
+168 'Greg 1' triangle
+169 'Brandon 1' triangle
+170 'Brianna 1' ellipse
+171 'Carson 1' triangle
+172 'Cassidie 1' ellipse
+173 'Teresa 1' ellipse
+174 'Ben 1' triangle
+175 'Mike 12' triangle
+176 'Jodie 12' ellipse
+177 'Lacey 12' ellipse
+178 'Annette 12' ellipse
+179 'spouse 6' triangle
+180 'Marilyn 12' ellipse
+181 'Cody 12' triangle
+182 'Courtney 12' ellipse
+183 'Evelyn Vincent' ellipse
+184 'Walden Vincent' triangle
+185 'Lisa 1' ellipse
+186 'Matt 1' triangle
+187 'kid 29' triangle
+188 'kid 30' ellipse
+189 'Charlie 1' triangle
+190 'kid 31' triangle
+191 'kid 32' ellipse
+192 'Lori 12' ellipse
+193 'Hyrum 12' triangle
+194 'kid 55' ellipse
+195 'Lana 1' ellipse
+196 'Don 1' triangle
+197 'kid 33' ellipse
+198 'kid 34' triangle
+199 'kid 35' triangle
+200 'Jeff 1' triangle
+201 'spouse 7' ellipse
+202 'kid 36' ellipse
+203 'kid 37' ellipse
+204 'kid 38' triangle
+205 'kid 39' ellipse
+206 'kid 40' triangle
+207 'kid 41' ellipse
+208 'Linda 2' ellipse
+209 'Gary 2' triangle
+210 'Brett 2' triangle
+211 'Stephania 2' ellipse
+212 'kid 42' ellipse
+213 'kid 43' triangle
+214 'kid 44' triangle
+215 'Erik 2' triangle
+216 'Heather (divorced)' ellipse
+217 'kid 45' ellipse
+218 'kid 46' triangle
+219 'kid 47' triangle
+220 'Emily 2' ellipse
+221 'Ryan 2' triangle
+222 'kid 48' ellipse
+223 'kid 49' triangle
+224 'kid 50' ellipse
+225 'Heather 2' ellipse
+226 'Ryan 3' triangle
+227 'kid 51' ellipse
+228 'kid 52' triangle
+229 'kid 53' triangle
+230 'kid 54' triangle
+231 'Annette Ellis' ellipse
+232 'Danny Ellis' triangle
+233 'Dawna 12' ellipse
+234 'Ryan 4' triangle
+235 'kid 56' triangle
+236 'kid 57' triangle
+237 'kid 58' ellipse
+238 'Jackie 12' ellipse
+239 'Matt 3' triangle
+240 'kid 59' triangle
+241 'kid 60' ellipse
+242 'kid 61' triangle
+243 'Jeremy 3' triangle
+244 'Kara 3' ellipse
+245 'Kristi 3' ellipse
+246 'kid 62' ellipse
+247 'kid 63' triangle
+248 'Tyler 3' triangle
+249 'Nicole 3' ellipse
+250 'kid 64' triangle
+251 'kid 65' ellipse
+252 'kid 66' triangle
+253 'Jack Jenkins' triangle
+254 'kid 67' triangle
+255 'kid 68' ellipse
+256 'kid 69' ellipse
+
+*arcs
+5 1 1
+5 2 1
+5 3 1
+5 4 1
+6 1 1
+6 2 1
+6 3 1
+6 4 1
+7 5 1
+7 11 1
+7 19 1
+7 22 1
+7 23 1
+7 27 1
+8 5 1
+8 11 1
+8 19 1
+8 22 1
+8 23 1
+8 27 1
+9 6 1
+9 29 1
+10 6 1
+10 29 1
+11 13 1
+11 14 1
+11 15 1
+11 16 1
+11 17 1
+11 18 1
+12 13 1
+12 14 1
+12 15 1
+12 16 1
+12 17 1
+12 18 1
+19 21 1
+20 21 1
+23 25 1
+23 26 1
+24 25 1
+24 26 1
+29 31 1
+29 33 1
+29 36 1
+30 31 1
+30 33 1
+30 36 1
+33 35 1
+34 35 1
+46 48 1
+46 53 1
+46 57 1
+46 66 1
+47 48 1
+47 53 1
+47 57 1
+47 66 1
+48 50 1
+48 51 1
+48 52 1
+49 50 1
+49 51 1
+49 52 1
+53 55 1
+53 56 1
+54 55 1
+54 56 1
+57 59 1
+57 60 1
+57 61 1
+57 62 1
+57 64 1
+57 65 1
+58 59 1
+58 60 1
+58 61 1
+58 62 1
+63 64 1
+63 65 1
+66 68 1
+67 68 1
+69 71 1
+69 76 1
+69 81 1
+69 84 1
+69 85 1
+70 71 1
+70 76 1
+70 81 1
+70 84 1
+70 85 1
+71 73 1
+71 74 1
+71 75 1
+72 73 1
+72 74 1
+72 75 1
+76 78 1
+76 79 1
+76 80 1
+77 78 1
+77 79 1
+77 80 1
+81 83 1
+82 83 1
+37 88 1
+37 93 1
+37 109 1
+37 132 1
+38 88 1
+38 93 1
+38 109 1
+38 132 1
+88 90 1
+88 91 1
+88 92 1
+89 90 1
+89 91 1
+89 92 1
+93 95 1
+93 99 1
+93 104 1
+94 95 1
+94 99 1
+94 104 1
+95 97 1
+95 98 1
+96 97 1
+96 98 1
+99 101 1
+99 102 1
+99 103 1
+100 101 1
+100 102 1
+100 103 1
+104 106 1
+104 107 1
+104 108 1
+105 106 1
+105 107 1
+105 108 1
+109 111 1
+109 118 1
+109 124 1
+109 129 1
+109 131 1
+110 111 1
+110 118 1
+110 124 1
+110 129 1
+110 131 1
+111 113 1
+111 114 1
+111 115 1
+111 116 1
+111 117 1
+112 113 1
+112 114 1
+112 115 1
+112 116 1
+112 117 1
+118 120 1
+118 121 1
+118 122 1
+118 123 1
+119 120 1
+119 121 1
+119 122 1
+119 123 1
+124 126 1
+124 127 1
+124 128 1
+125 126 1
+125 127 1
+125 128 1
+146 148 1
+146 150 1
+146 152 1
+146 154 1
+146 156 1
+147 148 1
+147 150 1
+147 152 1
+147 154 1
+147 156 1
+43 146 1
+43 9 1
+44 146 1
+44 9 1
+37 7 1
+38 7 1
+39 8 1
+40 8 1
+39 46 1
+40 46 1
+39 69 1
+40 69 1
+39 87 1
+40 87 1
+41 10 1
+42 10 1
+41 157 1
+41 208 1
+41 183 1
+41 231 1
+42 157 1
+42 208 1
+42 183 1
+42 231 1
+157 159 1
+157 164 1
+157 167 1
+157 173 1
+157 175 1
+157 178 1
+158 159 1
+158 164 1
+158 167 1
+158 173 1
+158 175 1
+158 178 1
+159 161 1
+159 162 1
+159 163 1
+160 161 1
+160 162 1
+160 163 1
+164 166 1
+165 166 1
+167 169 1
+167 170 1
+167 171 1
+167 172 1
+168 169 1
+168 170 1
+168 171 1
+168 172 1
+175 177 1
+176 177 1
+178 180 1
+178 181 1
+178 182 1
+179 180 1
+179 181 1
+179 182 1
+183 185 1
+183 192 1
+183 195 1
+183 200 1
+184 185 1
+184 192 1
+184 195 1
+184 200 1
+185 187 1
+185 188 1
+185 190 1
+185 191 1
+186 187 1
+186 188 1
+189 190 1
+189 191 1
+192 194 1
+193 194 1
+195 197 1
+195 198 1
+195 199 1
+196 197 1
+196 198 1
+196 199 1
+200 202 1
+200 203 1
+200 204 1
+200 205 1
+200 206 1
+200 207 1
+201 202 1
+201 203 1
+201 204 1
+201 205 1
+201 206 1
+201 207 1
+208 210 1
+208 215 1
+208 220 1
+208 225 1
+209 210 1
+209 215 1
+209 220 1
+209 225 1
+210 212 1
+210 213 1
+210 214 1
+211 212 1
+211 213 1
+211 214 1
+215 217 1
+215 218 1
+215 219 1
+216 217 1
+216 218 1
+216 219 1
+220 222 1
+220 223 1
+220 224 1
+221 222 1
+221 223 1
+221 224 1
+225 227 1
+225 228 1
+225 229 1
+225 230 1
+226 227 1
+226 228 1
+226 229 1
+226 230 1
+231 233 1
+231 238 1
+231 243 1
+231 248 1
+232 233 1
+232 238 1
+232 243 1
+232 248 1
+233 235 1
+233 236 1
+233 237 1
+234 235 1
+234 236 1
+234 237 1
+238 240 1
+238 241 1
+238 242 1
+239 240 1
+239 241 1
+239 242 1
+243 246 1
+243 247 1
+245 246 1
+245 247 1
+248 250 1
+248 251 1
+248 252 1
+249 250 1
+249 251 1
+249 252 1
+132 253 1
+132 141 1
+132 134 1
+132 138 1
+132 142 1
+132 144 1
+132 145 1
+133 141 1
+133 134 1
+133 138 1
+133 142 1
+133 144 1
+133 145 1
+133 253 1
+192 254 1
+192 255 1
+192 256 1
+193 254 1
+193 255 1
+193 256 1
+134 136 1
+135 136 1
+138 140 1
+139 140 1
+134 137 1
+135 137 1
+
+*edges
+5 6 1
+7 8 1
+9 10 1
+11 12 1
+19 20 1
+23 24 1
+27 28 1
+29 30 1
+31 32 1
+33 34 1
+37 38 1
+39 40 1
+41 42 1
+44 43 1
+44 45 1
+46 47 1
+48 49 1
+53 54 1
+57 58 1
+57 63 1
+66 67 1
+69 70 1
+71 72 1
+76 77 1
+81 82 1
+85 86 1
+88 89 1
+93 94 1
+95 96 1
+99 100 1
+104 105 1
+109 110 1
+111 112 1
+118 119 1
+124 125 1
+129 130 1
+132 133 1
+134 135 1
+138 139 1
+142 143 1
+146 147 1
+148 149 1
+150 151 1
+152 153 1
+154 155 1
+157 158 1
+159 160 1
+164 165 1
+167 168 1
+173 174 1
+175 176 1
+178 179 1
+183 184 1
+185 186 1
+185 189 1
+192 193 1
+195 196 1
+200 201 1
+208 209 1
+210 211 1
+215 216 1
+220 221 1
+225 226 1
+231 232 1
+233 234 1
+238 239 1
+243 244 1
+243 245 1
+248 249 1

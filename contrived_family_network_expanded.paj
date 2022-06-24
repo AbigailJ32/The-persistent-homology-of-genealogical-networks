@@ -1,0 +1,1992 @@
+*Network Ore graph my-family.puc
+
+*vertices 708
+1 'Abby' ellipse
+2 'Emma J.' ellipse
+3 'Aaron G.J.' triangle
+4 'Ellie B.J.' ellipse
+5 'Tom' triangle
+6 'Gina' ellipse
+7 'Gdp Roger' triangle
+8 'Gdm Nel' elllipse
+9 'Gdm Bonnie' ellipse
+10 'Gdp Jim' triangle
+11 'Uncle Paul' triangle
+12 'Aunt Rachel' ellipse
+13 'C. Mary Ruth' ellipse
+14 'C. Andrew' triangle
+15 'C. Eliza' ellipse
+16 'C. Michael' triangle
+17 'C. Timothy' triangle
+18 'C. Sarah' ellipse
+19 'Uncle Peter' triangle
+20 'Aunt Jules' ellipse
+21 'C. Hope' ellipse
+22 'Aunt Liz' ellipse
+23 'Uncle John' triangle
+24 'Aunt Mary' ellipse
+25 'C. Margaret' ellipse
+26 'C. Nathanial' triangle
+27 'Aunt Bec' ellipse
+28 'Uncle Nathan' triangle
+29 'Uncle Brian' triangle
+30 'Aunt Adri' ellipse
+31 'C. Allie' ellipse
+32 'C.iL Tyler' triangle
+33 'C. Aubree' ellipse
+34 'C.iL LaGrande' triangle
+35 'MJ' ellipse
+36 'C. Alese' ellipse
+37 'Grant Jenkins' triangle
+38 'Luana Ripplinger' ellipse
+39 'Archie Madsen' triangle
+40 'Charlotte Brinckman' ellipse
+41 'Orval Harmer' triangle
+42 'Donna James' ellipse
+43 'Don Peterson sr' triangle
+44 'Madge Harris' ellipse
+45 'Ned' triangle
+46 'Glenn Madsen' triangle
+47 'Carol Madsen' ellipse
+48 'Jac Madsen' triangle
+49 'Sarah Madsen' ellipse
+50 'kid 1' ellipse
+51 'kid 2' ellipse
+52 'kid 3' ellipse
+53 'Aaron Madsen' triangle
+54 'Erin Madsen' ellipse
+55 'kid 4' ellipse
+56 'kid 5' ellipse
+57 'Ben Madsen' triangle
+58 'Alyssa Madsen' ellipse
+59 'kid 6' triangle
+60 'kid 7' triangle
+61 'kid 8' triangle
+62 'kid 9' triangle
+63 'Lonelle Madsen' ellipse
+64 'kid 10' ellipse
+65 'kid 11' ellipse
+66 'Joel Madsen 1' triangle
+67 'Kirsti Madsen' ellipse
+68 'kid 12' triangle
+69 'Suzanne Call' ellipse
+70 'Rob Call' triangle
+71 'Anna Kremer' ellipse
+72 'Aaron Kremer' triangle
+73 'kid 13' triangle
+74 'kid 14' triangle
+75 'kid 15' ellipse
+76 'Adam Call' triangle
+77 'Emily Call' ellipse
+78 'kid 16' triangle
+79 'kid 17' ellipse
+80 'kid 18' ellipse
+81 'Aaron Call' triangle
+82 'Amy Call' ellipse
+83 'kid 19' triangle
+84 'Andrew Call' triangle
+85 'Sara Call' ellipse
+86 'Fiorella' ellipse
+87 'Joel Madsen 2' triangle
+88 'Scott Jenkins' triangle
+89 'Sandy Brass Jenkins' ellipse
+90 'Jennifer Jenkins (Jenn)' ellipse
+91 'Julienne Jenkins' ellipse
+92 'Jaelynn Jenkins' ellipse
+93 'Melidee Barton' ellipse
+94 'Glen Barton' triangle
+95 'Raelynn' ellipse
+96 'Sam' triangle
+97 'Kate' ellipse
+98 'Quinn' triangle
+99 'Eric Barton' triangle
+100 'Emily Stone Barton' ellipse
+101 'Lucas Barton' triangle
+102 'Alex Barton' ellipse
+103 'Ryder Barton' triangle
+104 'Rachel' ellipse
+105 'Todd' triangle
+106 'Ethan' triangle
+107 'Madelyn' ellipse
+108 'kid 20' triangle
+109 'Penny Curtis' ellipse
+110 'Don Curtis' triangle
+111 'Ross Curtis' triangle
+112 'Anna Curtis' ellipse
+113 'kid 21' ellipse
+114 'kid 22' ellipse
+115 'kid 23' ellipse
+116 'kid 24' ellipse
+117 'kid 25' ellipse
+118 'Stormie Curtis' ellipse
+119 'Jer West' triangle
+120 'Miyah West' ellipse
+121 'Misty West' ellipse
+122 'Jonah West' triangle
+123 'Shelby West' ellipse
+124 'Shane Curtis' triangle
+125 'Callie Curtis' ellipse
+126 'kid 26' ellipse
+127 'kid 27' triangle
+128 'kid 28' triangle
+129 'Rachelle Gardner' ellipse
+130 'Reid Gardner' triangle
+131 'Nicole Curtis' ellipse
+132 'James Jenkins (big fat uncle)' triangle
+133 'Jennie Jenkins' ellipse
+134 'James Jenkins (the younger)' triangle
+135 'Megan Jenkins' ellipse
+136 'Tucker Jenkins' triangle
+137 'Olivia Jenkins' ellipse
+138 'Jill Kocher' ellipse
+139 'Bill Kocher' triangle
+140 'Finn Kocher' triangle
+141 'Janey Jenkins' ellipse
+142 'Joy Keeling' ellipse
+143 'David Keeling' triangle
+144 'Joseph Jenkins' triangle
+145 'Jade Jenkins' ellipse
+146 'Don Peterson jr' triangle
+147 'Marsha Peterson' ellipse
+148 'Travis Peterson' triangle
+149 'spouse 1' ellipse
+150 'Luke 12' triangle
+151 'spouse 2' ellipse
+152 'Clint 12' triangle
+153 'spouse 3' ellipse
+154 'Sarah 1' ellipse
+155 'spouse 4' triangle
+156 'Quinn 1' triangle
+157 'Eloise 12' ellipse
+158 'David 12' triangle
+159 'David (the younger)' triangle
+160 'spouse 5' ellipse
+161 'Jenny 1' ellipse
+162 'Chris 1' triangle
+163 'Chad 1' triangle
+164 'Patricia 1' ellipse
+165 'Sam 1' triangle
+166 'Rachel 1' ellipse
+167 'Cheryl 1' ellipse
+168 'Greg 1' triangle
+169 'Brandon 1' triangle
+170 'Brianna 1' ellipse
+171 'Carson 1' triangle
+172 'Cassidie 1' ellipse
+173 'Teresa 1' ellipse
+174 'Ben 1' triangle
+175 'Mike 12' triangle
+176 'Jodie 12' ellipse
+177 'Lacey 12' ellipse
+178 'Annette 12' ellipse
+179 'spouse 6' triangle
+180 'Marilyn 12' ellipse
+181 'Cody 12' triangle
+182 'Courtney 12' ellipse
+183 'Evelyn Vincent' ellipse
+184 'Walden Vincent' triangle
+185 'Lisa 1' ellipse
+186 'Matt 1' triangle
+187 'kid 29' triangle
+188 'kid 30' ellipse
+189 'Charlie 1' triangle
+190 'kid 31' triangle
+191 'kid 32' ellipse
+192 'Lori 12' ellipse
+193 'Hyrum 12' triangle
+194 'kid 55' ellipse
+195 'Lana 1' ellipse
+196 'Don 1' triangle
+197 'kid 33' ellipse
+198 'kid 34' triangle
+199 'kid 35' triangle
+200 'Jeff 1' triangle
+201 'spouse 7' ellipse
+202 'kid 36' ellipse
+203 'kid 37' ellipse
+204 'kid 38' triangle
+205 'kid 39' ellipse
+206 'kid 40' triangle
+207 'kid 41' ellipse
+208 'Linda 2' ellipse
+209 'Gary 2' triangle
+210 'Brett 2' triangle
+211 'Stephania 2' ellipse
+212 'kid 42' ellipse
+213 'kid 43' triangle
+214 'kid 44' triangle
+215 'Erik 2' triangle
+216 'Heather (divorced)' ellipse
+217 'kid 45' ellipse
+218 'kid 46' triangle
+219 'kid 47' triangle
+220 'Emily 2' ellipse
+221 'Ryan 2' triangle
+222 'kid 48' ellipse
+223 'kid 49' triangle
+224 'kid 50' ellipse
+225 'Heather 2' ellipse
+226 'Ryan 3' triangle
+227 'kid 51' ellipse
+228 'kid 52' triangle
+229 'kid 53' triangle
+230 'kid 54' triangle
+231 'Annette Ellis' ellipse
+232 'Danny Ellis' triangle
+233 'Dawna 12' ellipse
+234 'Ryan 4' triangle
+235 'kid 56' triangle
+236 'kid 57' triangle
+237 'kid 58' ellipse
+238 'Jackie 12' ellipse
+239 'Matt 3' triangle
+240 'kid 59' triangle
+241 'kid 60' ellipse
+242 'kid 61' triangle
+243 'Jeremy 3' triangle
+244 'Kara 3' ellipse
+245 'Kristi 3' ellipse
+246 'kid 62' ellipse
+247 'kid 63' triangle
+248 'Tyler 3' triangle
+249 'Nicole 3' ellipse
+250 'kid 64' triangle
+251 'kid 65' ellipse
+252 'kid 66' triangle
+253 'Jack Jenkins' triangle
+254 'kid 67' triangle
+255 'kid 68' ellipse
+256 'kid 69' ellipse
+257 'James Hardy Jenkins' triangle
+258 'Mary Elizabth Buckler' ellipse
+259 'John Laird Jenkins' triangle
+260 'Emma Louisa Taylor' ellipse
+261 'George Taylor' triangle
+262 'Louisa Gwyther' ellipse
+263 'Thomas Gwyther' triangle
+264 'Louisa Emily Palmer' ellipse
+265 'Henry Gwyther III' triangle
+266 'Mary Seager' ellipse
+267 'Henry Gwyther II' triangle
+268 'Hester Howell' ellipse
+269 'Henry Gwyther I' triangle
+270 'Rachel Jones' ellipse
+271 'David Hopla James' triangle
+272 'Mary Ann Sorenson' ellipse
+273 'Reese David James Sr' triangle
+274 'Jane Hopla' ellipse
+275 'John Hopla' triangle
+276 'Catharine Edwards' ellipse
+277 'John Stephan Hopla' triangle
+278 'Elizabeth Bateman' ellipse
+279 'Stephan Hopla' triangle
+280 'Elizabeth Cosker' ellipse
+281 'Edward Casker' triangle
+282 'Anne Gwyther' ellipse
+283 'Lorraine Holm' ellipse
+284 'Lawrence Ripplinger' triangle
+285 'Martha Louise Jessop' ellipse
+286 'Magnus Holm' triangle
+287 'Margaret Eve Shaffer' ellipse
+288 'Thomas Jeffer' triangle
+289 'Joseph Russel Shaffer' triangle
+290 'Gilead Taylo' ellipse
+291 'Henry Michael Shaffer' triangle
+292 'Eve Beard' ellipse
+293 'Eva Elizabeth Keikner' ellipse
+294 'John Shaffer' triangle
+295 'Henry Stapleton Keikner' triangle
+296 'Maria Lindemuth' ellipse
+297 'Elizabeth Stapleton' ellipse
+298 'Georg Kelchner' triangle
+299 'Anna Maria Weigand' ellipse
+300 'Rober Stapleton' triangle
+301 'Michael Weigand' triangle
+302 'Anne Chaterine Sieger' ellipse
+303 'George Herman Weygand' triangle
+304 'Ann Appolonia' ellipse
+305 'Marvin Andrew Schrock' triangle
+306 'Gladys Margueritte Bishop' ellipse
+307 'Andrew Jesse Schrock' triangle
+308 'Elisabeth Neuenschwander' ellipse
+309 'Mary Troyer' ellipse
+310 'Valentine Shrock' ellipse
+311 'Anna Mishler' ellipse
+312 'Levi Troyer' triangle
+313 'Barbara Lehman' ellipse
+314 'Valentine Mishler' ellipse
+315 'Maria Elizabeth Bandorf' ellipse
+316 'John Lehman' triangle
+317 'Christian Bandorf' trianlge
+318 'Eva Karshitz' ellipse
+319 'Johannes Martin Bandorf' triangle
+320 'Maria Walborn' ellipse
+321 'Kunigunda Weygand' ellipse
+322 'Johann Batdorf' triangle
+323 'Johann Herman Weygand' triangle
+324 'Anna Junigunde' ellipse
+325 'spouse Wood' triangle
+326 'Elizabeth Blaylock' ellipse
+327 'spouse unknown' ellipse
+328 'Stanford Blaylock' triangle
+329 'Enos Mason Blaylock' triangle
+330 'Zina Isabel Montgomery' ellipse
+331 'Elizabeth Chadwick' ellipse
+332 'Alma Montgomery' triangle
+333 'Mary Wilson' ellipse
+334 'Robert Montgomery Sr' triangle
+335 'James Montgomery' triangle
+336 'Margaret Goodwin' ellipse
+337 'Robert Goddine' triangle
+338 'Marion Stevenson' ellipse
+339 'James Stevenson' triangle
+340 'Marion Callander' ellipse
+341 'Robert Stevenson' triangle
+342 'Mary Allan' ellipse
+343 'Janet Stevenson' ellipse
+344 'William Mitchell' triangle
+345 'Margaret Mitchel' ellipse
+346 'Robert Laird' triangle
+347 'Charles Laird' triangle
+348 'Jane Jenkins in extended family' ellipse
+349 'Janet Laird' ellipse
+350 'James Hardie Jenkins' triangle
+351 'John Laird Jenkins' triangle
+352 'Emma Louisa Taylor' ellipse
+353 'Hannah Mabel Devey' ellipse
+354 'LeRoy Harris' triangle
+355 'Albert Harris' triangle
+356 'Sarah Jane Herbst' ellipse
+357 'Johannes Herbst' triangle
+358 'Anna Eva Dittmore' ellipse
+359 'George Nicolaus Dittmar' triangle
+360 'Christine Marie Heinter' ellipse
+361 'Eva Marie Goeckel' ellipse
+362 'Johannes Heiner' triangle
+363 'Susanne Elisabethe Hondorf' ellipse
+364 'Johann Martin Heiner' triangle
+365 'Adelgunda Dietzel' ellipse
+366 'Daniel Heinter' triangle
+367 'Martha Ann Stevens' ellipse
+368 'Mary Elizabth Heinter' ellipse
+369 'Thomas Vernard Thomas' triangle
+370 'Beth Thomas' ellipse
+371 'Dale Tull Fitzwater' triangle
+372 'Raelynns grandparent' ellipse
+373 'Raelynns other grandparent' triangle
+374 'Raelynns parent' ellipse
+375 'Raelynns other parent' triangle
+376 'Raelynn Wonnacott' ellipse
+377 'Ernest Harmer' triangle
+378 'Stella Laura Beck' ellipse
+379 'Annie Elizabeth Johnson' ellipse
+380 'Alfred Roger Beck' triangle
+381 'Margaret Thomas' ellipse
+382 'Alfred Roger M Beck' triangle
+383 'Joseph Ellison Beck Sr' triangle
+384 'Hannah Harrison Forsyth' ellipse
+385 'Margaret Hodson' ellipse
+386 'John Forsyth II' triangle
+387 'Sarah Forsyth' ellipse
+388 'Thomas Forsyth' triangle
+389 'John Forsyth I' triangle
+390 'Lucretia Taylor' ellipse
+391 'Ann Lippincott' ellipse
+392 'Thomas Taylor' triangle
+393 'Anne Foulke' ellipse
+394 'Samuel Taylor' triangle
+395 'John Taylor' triangle
+396 'Sarah Quicksall' ellipse
+397 'Mary Taylor' ellipse
+398 'Phineas Reeves' triangle
+399 'Meribah Reeves' ellipse
+400 'Benjamin Bird' triangle
+401 'William Bird' triangle
+402 'Ann Roylance' ellipse
+403 'Mary Ann Bird' ellipse
+404 'Charles Wheatley Blench Innes' triangle
+405 'Blanche Bird Innes' ellipse
+406 'Steven Wilks Bateman' triangle
+407 'Fae Innes Bateman' ellipse
+408 'Deloy John Bate' triangle
+409 'Lei Nani Fae Bate' ellipse
+410 'Robert Hardy Jamieson' triangle
+411 'Josephs dad' triangle
+412 'Josephs mom' ellipse
+413 'Joseph Jamieson' triangle
+414 'David Wonnacott' triangle
+415 'Deborah Emma' ellipse
+416 'TEMPORARY' triangle
+417 'TEMPORARY 2' ellipse
+418 'Alexander George' triangle
+419 'Wilma Newbold' ellipse
+420 'Forest Black' triangle
+421 'Dixie Nicol' ellipse
+422 'Christian Julius Madsen' triangle
+423 'Nellie May Amsbaugh' ellipse
+424 'Hattie May Croop' ellipse
+425 'Albert William Amsbaugh' triangle
+426 'Mary Emily Brush' ellipse
+427 'William Eli Amsbaugh' triangle
+428 'Christina Jenny Teney' ellipse
+429 'Adam Johan Amsbaugh' triangle
+430 'Valentine Amsbaugh' triangle
+431 'Barbara Ann Rosar' ellipse
+432 'Johannes Adam Rosier' triangle
+433 'Anna Catharina Kraemer II' ellipse
+434 'Anna Maria Farren' ellipse
+435 'Hans Jacob Kraemer' triangle
+436 'Anna Catharina Reichenbach' ellipse
+437 'Hans Jacob Kramer' triangle
+438 'Anna Catharina Kraemer' ellipse
+439 'Johann Adam Krammerer' triangle
+440 'Maria Margretha Krammerer' ellipse
+441 'Hans Jacob Schmidt' triangle
+442 'Lorenz Schmidt' triangle
+443 'Maria Elisabetha Brecht' ellipse
+444 'Michael Schmidt' triangle
+445 'Catharina Ewinger' ellipse
+446 'Georg Adam Smith' triangle
+447 'Mary Catherine Smith' ellipse
+448 'Rozetta Smith' ellipse
+449 'Thomas George Williams' triangle
+450 'Olive Melissa Williams' ellipse
+451 'Eldon Armstrong Jones' triangle
+452 'Velma Jones' ellipse
+453 'David Jason Larkin' triangle
+454 'Seans grandparent' ellipse
+455 'Seans other grandparent' triangle
+456 'Seans parent' triangle
+457 'Seans other parent' ellipse
+458 'Sean Gallacher' triangle
+459 'Winona Merrell' ellipse
+460 'Charles William Wonnacott' triangle
+461 'Frank William Wonnacott' triangle
+462 'Annie Pearl Branch' ellipse
+463 'Agnes Griffin' ellipse
+464 'Henry Wirt Branch' triangle
+465 'David Bell Branch' triangle
+466 'Amanda Parker Wirt' ellipse
+467 'John R Wirt Sr' triangle
+468 'Mary Catherine Hiatt' ellipse
+469 'Rachel Edwards Williams' ellipse
+470 'Jonathan Hiatt' triangle
+471 'Susanna Hodgson' ellipse
+472 'William Hiatt' triangle
+473 'Rachel Margaret Wilson' ellipse
+474 'John Hiatt Jr' triangle
+475 'Mary Hiatt' ellipse
+476 'Thomas Edwards' triangle
+477 'Margaret Edwards' ellipse
+478 'William Alderton' triangle
+479 'Sarah Alderton' ellipse
+480 'James Allender' triangle
+481 'George W Allender' triangle
+482 'Mary Anderson' ellipse
+483 'George Wesley Allender' triangle
+484 'Emily Cross' ellipse
+485 'Sarah Elizabeth Allender' ellipse
+486 'Franklin Welrose Sine' triangle
+487 'Nellie Cleone Sine' ellipse
+488 'Gail Nephi Nielson' triangle
+489 'Juanita Cleone Nielson' ellipse
+490 'Wilford Junior Solomon' triangle
+491 'David Lincoln Gallacher' triangle
+492 'Seans 3rd? grandparent' ellipse
+493 'Mary Sophia Elizabeth Lybbert' ellipse
+494 'William Porter Merrell' triangle
+495 'Porter William Merrell' triangle
+496 'Harriet Amelia Remington' ellipse
+497 'Jerome Napoleon Remington' triangle
+498 'Lydia Ripley Badger' ellipse
+499 'John Badger' triangle
+500 'Lydia Chamberlain' ellipse
+501 'Mary Molly Powers' ellipse
+502 'John Chamberlain' triangle
+503 'Elizabeth Cram' ellipse
+504 'Jonathan Chamberlain' triangle
+505 'Abigail Hill' ellipse
+506 'Captain Samuel Chamberlain' triangle
+507 'Thomas Chamberlain' triangle
+508 'Sarah Proctor' ellipse
+509 'Captain John Dodge' triangle
+510 'Hannah Dodge' ellipse
+511 'Ebenezer Woodbury' triangle
+512 'Elizabeth Woodbury' ellipse
+513 'Robert Thorndike Sr' triangle
+514 'Robert Thorndike Jr' triangle
+515 'Deborah Wallis' ellipse
+516 'Elizabeth Thorndike' ellipse
+517 'Joseph Hardy II' triangle
+518 'Joseph Henry Hardy III' triangle
+519 'Lucy Thorndike Blanden' ellipse
+520 'Joseph Hardy V' triangle
+521 'Lydia Rebecca Davis' ellipse
+522 'Joseph Hyrum Hardy' triangle
+523 'Roseltha Melissa Reynolds' ellipse
+524 'Gladys Hardy' ellipse
+525 'Robert John Jamieson' triangle
+526 'William Henry Devey' triangle
+527 'Ann Deven Kershaw' ellipse
+528 'William Devey' triangle
+529 'Martha Louise Devey' ellipse
+530 'George Mason Adams' triangle
+531 'Minnie Rose Adams' ellipse
+532 'Mahonri Lazelle Fish' triangle
+533 'Helene Fish' ellipse
+534 'Ralph Harvey Gardner' triangle
+535 'Maveriks grandparent' ellipse
+536 'Maveriks other grandparent' triangle
+537 'Maveriks parent' ellipse
+538 'Maveriks other parent' triangle
+539 'Maverik Thomas' triangle
+540 'Josephs grandmother' ellipse
+541 'John Tillman Perazzo' triangle
+542 'Natale Antonio Perasso' triangle
+543 'Noma Marie Smith' ellipse
+544 'Cora Leolla Myers' ellipse
+545 'Harley Tillman Smith' triangle
+546 'Mary Elizabeth Lupor' ellipse
+547 'Dresden Corvada Smith' triangle
+548 'Adaline Elizabeth Butler' ellipse
+549 'Chauncey Billings Smith' triangle
+550 'Abraham Smith' triangle
+551 'Polly Truesdale' ellipse
+552 'Mary Whitney' ellipse
+553 'John Truesdale II' triangle
+554 'Experience H Maltby' ellipse
+555 'John Truesdale' triangle
+556 'Mary Richards' ellipse
+557 'Richard Trusdell' triangle
+558 'Samuel Truesdale' triangle
+559 'Mary Jackson' ellipse
+560 'John Jackson' triangle
+561 'Margaret' ellipse
+562 'Deliverance Jackson' ellipse
+563 'John Parks' triangle
+564 'Mary Parkes' ellipse
+565 'Benjamin Barret' triangle
+566 'Martha Barrett' ellipse
+567 'John Hendrick' triangle
+568 'Daniel Hendrick' triangle
+569 'Lydia Phelps' ellipse
+570 'Daniel Hendrix Jr' triangle
+571 'Lucy Allen' ellipse
+572 'Edmund Allen Hendrix' triangle
+573 'Mary Ellen Terry' ellipse
+574 'Ervin Lester Hendrix' triangle
+575 'Margaret Reid' ellipse
+576 'Finley Reid Hendrix' triangle
+577 'Juanita McLeod' ellipse
+578 'Maveriks grandparent' ellipse
+579 'Maveriks other grandparent' triangle
+580 'Mary Jane Healey' ellipse
+581 'Cordelia Inman' ellipse
+582 'Charles Bishop II' triangle
+583 'Mary Sophia Wood' ellipse
+584 'Charles Bishop' triangle
+585 'Rachel Randolph' ellipse
+586 'Elijah Bishop' triangle
+587 'William Bishop' triangle
+588 'Hannah Comstock' ellipse
+589 'Phebe Cobb' ellipse
+590 'Ezekiel Comstock' triangle
+591 'Gideon Comstock' triangle
+592 'Hannah Allen' ellipse
+593 'Samuel Allen' triangle
+594 'Lydia Hastings' ellipse
+595 'Elizabeth Allen' ellipse
+596 'Samuel Dewey' triangle
+597 'Samuel Dewey II' triangle
+598 'Mindwell Post' ellipse
+599 'Samuel Dewey III' triangle
+600 'Milly Mckee' ellipse
+601 'Wealthy Dewey' ellipse
+602 'Phinehas Richards' triangle
+603 'Franklin Richards' triangle
+604 'Nanny Longstroth' ellipse
+605 'George Richards' triangle
+606 'Alice Robinson' ellipse
+607 'Alice Richards' ellipse
+608 'George Tate' triangle
+609 'George Tate II' triangle
+610 'Lucile Christenson' ellipse
+611 'Taylors grandparent' triangle
+612 'Taylors other grandparent' ellipse
+613 'Taylors parent' ellipse
+614 'Taylors other parent' triangle
+615 'Taylor Gledhill' ellipse
+616 'Carol Folkman' ellipse
+617 'John Taylor (2)' triangle
+618 'Raymond Taylor' triangle
+619 'Annie Randall' ellipse
+620 'Eliza Ann Chadwick' ellipse
+621 'David Randall' triangle
+622 'Hanna Severn' ellipse
+623 'Alfred Randall' triangle
+624 'Martha Thompson' ellipse
+625 'Jason Randall' triangle
+626 'Content Phillips' ellipse
+627 'Nicholas Randall' triangle
+628 'Nathan Randall' triangle
+629 'Eleanor Cottrell' ellipse
+630 'Nicholas Cottrell' triangle
+631 'Dorothy Pendleton' ellipse
+632 'James Pendleton' triangle
+633 'Hannah Goodenow' ellipse
+634 'Joseph Pendleton' triangle
+635 'Patience Potts' ellipse
+636 'William Pendleton' triangle
+637 'Lydia Burrows' ellipse
+638 'William Pendleton' triangle
+639 'Judith Carr' ellipse
+640 'Job Pendleton' triangle
+641 'Sarah Crandall' ellipse
+642 'Job Pendleton' triangle
+643 'Betsy Crane' ellipse
+644 'Calvin Pendleton' triangle
+645 'Sally Ann Seavey' ellipse
+646 'Daniel Pendleton' triangle
+647 'Margaret Benson' ellipse
+648 'Daniel Pendleton' triangle
+649 'Nancy Chatterley' ellipse
+650 'Bernice Pendleton' ellipse
+651 'Irvin Danks Adams' triangle
+652 'Mary Ann Saxton' ellipse
+653 'Hosea Merrell' triangle
+654 'Anna Haskins' ellipse
+655 'Joseph Saxton' triangle
+656 'Mary Fenn' ellipse
+657 'John Saxton' triangle
+658 'Elizabeth Roberts' ellipse
+659 'Ebenezer Saxton' triangle
+660 'Gershom Sexton' triangle
+661 'Abigail King' ellipse
+662 'Amos Sexton' triangle
+663 'Elizabeth Morris' ellipse
+664 'Jacob Farrington' triangle
+665 'Abigail Sexton' ellipse
+666 'Daniel Olds Stiles' triangle
+667 'Abigail Farrington' ellipse
+668 'Reynolds Cahoon' triangle
+669 'Thirza Stiles' ellipse
+670 'Andrew A Cahoon' triangle
+671 'Janet Barr Carruth' ellipse
+672 'Samuel Woodley' triangle
+673 'Rachel Cahoon' ellipse
+674 'John Taylor (3)' triangle
+675 'Janet Wooley' ellipse
+676 'Beulah Lovett' ellipse
+677 'John Fitz Randolph' triangle
+678 'Abigail Thayer' ellipse
+679 'Phinehas Lovett' triangle
+680 'Abigail Sumner' ellipse
+681 'William Thayer' triangle
+682 'Mary Alice Taylor' ellipse
+683 'Thomas Thayer' triangle
+684 'Ferdinando Thayer' triangle
+685 'Huldah Hayward' ellipse
+686 'Huldah Thayer' ellipse
+687 'Jacob Aldrich' triangle
+688 'Huldah Aldrich' ellipse
+689 'Samuel Wilkinson' triangle
+690 'Zibiah Wilkinson' ellipse
+691 'Ichabod Comstock' triangle
+692 'Jonathan Comstock' triangle
+693 'Mary Angell' ellipse
+694 'Thomas Comstock' triangle
+695 'Olive Hamilton' ellipse
+696 'Louisa S Comstock' ellipse
+697 'Clark C Stewart' triangle
+698 'Delilah Stewart' ellipse
+699 'David Bartlett' triangle
+700 'Olive Bartlett' ellipse
+701 'Edward Jenkins' triangle
+702 'Emma Lisle Jenkins' ellipse
+703 'Milo Henry Trumble' triangle
+704 'Corys grandmother' ellipse
+705 'Andrew Gargan' triangle
+706 'Corys mother' ellipse
+707 'Brian Hunter' triangle
+708 'Cory Reece Hunter' triangle
+
+*arcs
+5 1 1
+5 2 1
+5 3 1
+5 4 1
+6 1 1
+6 2 1
+6 3 1
+6 4 1
+7 5 1
+7 11 1
+7 19 1
+7 22 1
+7 23 1
+7 27 1
+8 5 1
+8 11 1
+8 19 1
+8 22 1
+8 23 1
+8 27 1
+9 6 1
+9 29 1
+10 6 1
+10 29 1
+11 13 1
+11 14 1
+11 15 1
+11 16 1
+11 17 1
+11 18 1
+12 13 1
+12 14 1
+12 15 1
+12 16 1
+12 17 1
+12 18 1
+19 21 1
+20 21 1
+23 25 1
+23 26 1
+24 25 1
+24 26 1
+29 31 1
+29 33 1
+29 36 1
+30 31 1
+30 33 1
+30 36 1
+33 35 1
+34 35 1
+46 48 1
+46 53 1
+46 57 1
+46 66 1
+47 48 1
+47 53 1
+47 57 1
+47 66 1
+48 50 1
+48 51 1
+48 52 1
+49 50 1
+49 51 1
+49 52 1
+53 55 1
+53 56 1
+54 55 1
+54 56 1
+57 59 1
+57 60 1
+57 61 1
+57 62 1
+57 64 1
+57 65 1
+58 59 1
+58 60 1
+58 61 1
+58 62 1
+63 64 1
+63 65 1
+66 68 1
+67 68 1
+69 71 1
+69 76 1
+69 81 1
+69 84 1
+69 85 1
+70 71 1
+70 76 1
+70 81 1
+70 84 1
+70 85 1
+71 73 1
+71 74 1
+71 75 1
+72 73 1
+72 74 1
+72 75 1
+76 78 1
+76 79 1
+76 80 1
+77 78 1
+77 79 1
+77 80 1
+81 83 1
+82 83 1
+37 88 1
+37 93 1
+37 109 1
+37 132 1
+38 88 1
+38 93 1
+38 109 1
+38 132 1
+88 90 1
+88 91 1
+88 92 1
+89 90 1
+89 91 1
+89 92 1
+93 95 1
+93 99 1
+93 104 1
+94 95 1
+94 99 1
+94 104 1
+95 97 1
+95 98 1
+96 97 1
+96 98 1
+99 101 1
+99 102 1
+99 103 1
+100 101 1
+100 102 1
+100 103 1
+104 106 1
+104 107 1
+104 108 1
+105 106 1
+105 107 1
+105 108 1
+109 111 1
+109 118 1
+109 124 1
+109 129 1
+109 131 1
+110 111 1
+110 118 1
+110 124 1
+110 129 1
+110 131 1
+111 113 1
+111 114 1
+111 115 1
+111 116 1
+111 117 1
+112 113 1
+112 114 1
+112 115 1
+112 116 1
+112 117 1
+118 120 1
+118 121 1
+118 122 1
+118 123 1
+119 120 1
+119 121 1
+119 122 1
+119 123 1
+124 126 1
+124 127 1
+124 128 1
+125 126 1
+125 127 1
+125 128 1
+146 148 1
+146 150 1
+146 152 1
+146 154 1
+146 156 1
+147 148 1
+147 150 1
+147 152 1
+147 154 1
+147 156 1
+43 146 1
+43 9 1
+44 146 1
+44 9 1
+37 7 1
+38 7 1
+39 8 1
+40 8 1
+39 46 1
+40 46 1
+39 69 1
+40 69 1
+39 87 1
+40 87 1
+41 10 1
+42 10 1
+41 157 1
+41 208 1
+41 183 1
+41 231 1
+42 157 1
+42 208 1
+42 183 1
+42 231 1
+157 159 1
+157 164 1
+157 167 1
+157 173 1
+157 175 1
+157 178 1
+158 159 1
+158 164 1
+158 167 1
+158 173 1
+158 175 1
+158 178 1
+159 161 1
+159 162 1
+159 163 1
+160 161 1
+160 162 1
+160 163 1
+164 166 1
+165 166 1
+167 169 1
+167 170 1
+167 171 1
+167 172 1
+168 169 1
+168 170 1
+168 171 1
+168 172 1
+175 177 1
+176 177 1
+178 180 1
+178 181 1
+178 182 1
+179 180 1
+179 181 1
+179 182 1
+183 185 1
+183 192 1
+183 195 1
+183 200 1
+184 185 1
+184 192 1
+184 195 1
+184 200 1
+185 187 1
+185 188 1
+185 190 1
+185 191 1
+186 187 1
+186 188 1
+189 190 1
+189 191 1
+192 194 1
+193 194 1
+195 197 1
+195 198 1
+195 199 1
+196 197 1
+196 198 1
+196 199 1
+200 202 1
+200 203 1
+200 204 1
+200 205 1
+200 206 1
+200 207 1
+201 202 1
+201 203 1
+201 204 1
+201 205 1
+201 206 1
+201 207 1
+208 210 1
+208 215 1
+208 220 1
+208 225 1
+209 210 1
+209 215 1
+209 220 1
+209 225 1
+210 212 1
+210 213 1
+210 214 1
+211 212 1
+211 213 1
+211 214 1
+215 217 1
+215 218 1
+215 219 1
+216 217 1
+216 218 1
+216 219 1
+220 222 1
+220 223 1
+220 224 1
+221 222 1
+221 223 1
+221 224 1
+225 227 1
+225 228 1
+225 229 1
+225 230 1
+226 227 1
+226 228 1
+226 229 1
+226 230 1
+231 233 1
+231 238 1
+231 243 1
+231 248 1
+232 233 1
+232 238 1
+232 243 1
+232 248 1
+233 235 1
+233 236 1
+233 237 1
+234 235 1
+234 236 1
+234 237 1
+238 240 1
+238 241 1
+238 242 1
+239 240 1
+239 241 1
+239 242 1
+243 246 1
+243 247 1
+245 246 1
+245 247 1
+248 250 1
+248 251 1
+248 252 1
+249 250 1
+249 251 1
+249 252 1
+132 253 1
+132 141 1
+132 134 1
+132 138 1
+132 142 1
+132 144 1
+132 145 1
+133 141 1
+133 134 1
+133 138 1
+133 142 1
+133 144 1
+133 145 1
+133 253 1
+192 254 1
+192 255 1
+192 256 1
+193 254 1
+193 255 1
+193 256 1
+134 136 1
+135 136 1
+138 140 1
+139 140 1
+134 137 1
+135 137 1
+257 37 1
+258 37 1
+259 257 1
+260 257 1
+261 260 1
+262 260 1
+263 262 1
+264 262 1
+265 263 1
+266 263 1
+267 265 1
+268 265 1
+269 267 1
+270 267 1
+271 42 1
+272 42 1
+273 271 1
+274 271 1
+275 274 1
+276 274 1
+277 275 1
+278 275 1
+279 277 1
+280 277 1
+281 280 1
+282 280 1
+270 282 1
+269 282 1
+283 38 1
+284 38 1
+285 283 1
+286 283 1
+287 285 1
+288 285 1
+289 287 1
+290 287 1
+291 289 1
+292 289 1
+293 291 1
+294 291 1
+295 293 1
+296 293 1
+303 323 1
+304 323 1
+297 295 1
+298 295 1
+299 297 1
+300 297 1
+301 299 1
+302 299 1
+303 301 1
+304 301 1
+305 40 1
+306 40 1
+307 305 1
+308 305 1
+309 307 1
+310 307 1
+311 309 1
+312 309 1
+313 311 1
+314 311 1
+315 313 1
+316 313 1
+317 315 1
+318 315 1
+319 317 1
+320 317 1
+321 319 1
+322 319 1
+323 321 1
+324 321 1
+326 12 1
+325 12 1
+328 326 1
+327 326 1
+330 328 1
+329 328 1
+332 330 1
+331 330 1
+334 332 1
+333 332 1
+336 334 1
+335 334 1
+338 336 1
+337 336 1
+340 338 1
+339 338 1
+351 257 1
+352 257 1
+349 351 1
+350 351 1
+347 349 1
+348 349 1
+345 347 1
+346 347 1
+343 345 1
+344 345 1
+341 343 1
+342 343 1
+339 341 1
+340 341 1
+361 360 1
+362 360 1
+360 358 1
+359 358 1
+358 356 1
+357 356 1
+356 354 1
+355 354 1
+354 44 1
+353 44 1
+362 364 1
+363 364 1
+364 366 1
+365 366 1
+366 368 1
+367 368 1
+368 370 1
+369 370 1
+370 372 1
+371 372 1
+372 374 1
+373 374 1
+374 376 1
+375 376 1
+393 392 1
+394 392 1
+392 390 1
+391 390 1
+390 388 1
+389 388 1
+388 386 1
+387 386 1
+386 384 1
+385 384 1
+384 382 1
+383 382 1
+382 380 1
+381 380 1
+380 378 1
+379 378 1
+378 41 1
+377 41 1
+393 395 1
+394 395 1
+395 397 1
+396 397 1
+397 399 1
+398 399 1
+399 401 1
+400 401 1
+401 403 1
+402 403 1
+403 405 1
+404 405 1
+405 407 1
+406 407 1
+407 409 1
+408 409 1
+409 411 1
+410 411 1
+411 413 1
+412 413 1
+414 375 1
+415 375 1
+418 415 1
+419 415 1
+420 373 1
+421 373 1
+423 39 1
+422 39 1
+425 423 1
+424 423 1
+427 425 1
+426 425 1
+429 427 1
+428 427 1
+431 429 1
+430 429 1
+433 431 1
+432 431 1
+435 433 1
+434 433 1
+436 435 1
+437 435 1
+438 440 1
+439 440 1
+440 442 1
+441 442 1
+442 444 1
+443 444 1
+444 446 1
+445 446 1
+446 448 1
+447 448 1
+448 450 1
+449 450 1
+450 452 1
+451 452 1
+452 454 1
+453 454 1
+454 456 1
+455 456 1
+456 458 1
+457 458 1
+436 438 1
+437 438 1
+460 414 1
+459 414 1
+462 460 1
+461 460 1
+464 462 1
+463 462 1
+466 464 1
+465 464 1
+468 466 1
+467 466 1
+470 468 1
+469 468 1
+472 470 1
+471 470 1
+473 472 1
+474 472 1
+473 475 1
+474 475 1
+475 477 1
+476 477 1
+477 479 1
+478 479 1
+479 481 1
+480 481 1
+481 483 1
+482 483 1
+483 485 1
+484 485 1
+485 487 1
+486 487 1
+487 489 1
+488 489 1
+489 491 1
+490 491 1
+491 457 1
+492 457 1
+494 459 1
+493 459 1
+496 494 1
+495 494 1
+498 496 1
+497 496 1
+500 498 1
+499 498 1
+502 500 1
+501 500 1
+504 502 1
+503 502 1
+506 504 1
+505 504 1
+507 506 1
+508 506 1
+508 510 1
+509 510 1
+510 512 1
+511 512 1
+512 514 1
+513 514 1
+514 516 1
+515 516 1
+516 518 1
+517 518 1
+518 520 1
+519 520 1
+520 522 1
+521 522 1
+522 524 1
+523 524 1
+524 410 1
+525 410 1
+527 526 1
+528 526 1
+526 353 1
+580 353 1
+527 529 1
+528 529 1
+529 531 1
+530 531 1
+531 533 1
+532 533 1
+533 535 1
+534 535 1
+535 537 1
+536 537 1
+537 539 1
+538 539 1
+560 559 1
+561 559 1
+559 557 1
+558 557 1
+557 555 1
+556 555 1
+555 553 1
+554 553 1
+553 551 1
+552 551 1
+551 549 1
+550 549 1
+549 547 1
+548 547 1
+547 545 1
+546 545 1
+545 543 1
+544 543 1
+543 541 1
+542 541 1
+541 412 1
+540 412 1
+560 562 1
+561 562 1
+562 564 1
+563 564 1
+564 566 1
+565 566 1
+566 568 1
+567 568 1
+568 570 1
+569 570 1
+570 572 1
+571 572 1
+572 574 1
+573 574 1
+574 576 1
+575 576 1
+576 578 1
+577 578 1
+578 538 1
+579 538 1
+582 306 1
+581 306 1
+584 582 1
+583 582 1
+586 584 1
+585 584 1
+588 586 1
+587 586 1
+590 588 1
+589 588 1
+592 590 1
+591 590 1
+593 592 1
+594 592 1
+593 595 1
+594 595 1
+595 597 1
+596 597 1
+597 599 1
+598 599 1
+599 601 1
+600 601 1
+601 603 1
+602 603 1
+603 605 1
+604 605 1
+605 607 1
+606 607 1
+607 609 1
+608 609 1
+609 611 1
+610 611 1
+611 613 1
+612 613 1
+613 615 1
+614 615 1
+632 631 1
+633 631 1
+631 629 1
+630 629 1
+629 627 1
+628 627 1
+627 625 1
+626 625 1
+625 623 1
+624 623 1
+623 621 1
+622 621 1
+621 619 1
+620 619 1
+619 617 1
+618 617 1
+617 614 1
+616 614 1
+632 634 1
+633 634 1
+634 636 1
+635 636 1
+636 638 1
+637 638 1
+638 640 1
+639 640 1
+640 642 1
+641 642 1
+642 644 1
+643 644 1
+644 646 1
+645 646 1
+646 648 1
+647 648 1
+648 650 1
+649 650 1
+650 540 1
+651 540 1
+660 659 1
+661 659 1
+659 657 1
+658 657 1
+657 655 1
+656 655 1
+655 652 1
+654 652 1
+653 495 1
+652 495 1
+660 662 1
+661 662 1
+662 665 1
+663 665 1
+664 667 1
+665 667 1
+666 669 1
+667 669 1
+668 670 1
+669 670 1
+670 673 1
+671 673 1
+672 675 1
+673 675 1
+674 618 1
+675 618 1
+677 585 1
+676 585 1
+679 676 1
+678 676 1
+681 678 1
+680 678 1
+683 681 1
+682 681 1
+684 683 1
+685 683 1
+684 686 1
+685 686 1
+686 688 1
+687 688 1
+688 690 1
+689 690 1
+691 692 1
+690 692 1
+692 694 1
+693 694 1
+694 696 1
+695 696 1
+696 698 1
+697 698 1
+698 700 1
+699 700 1
+700 702 1
+701 702 1
+702 704 1
+703 704 1
+704 706 1
+705 706 1
+706 708 1
+707 708 1
+709 653 1
+710 653 1
+711 710 1
+712 710 1
+713 712 1
+714 712 1
+716 714 1
+715 714 1
+718 716 1
+717 716 1
+719 718 1
+720 718 1
+719 721 1
+720 721 1
+723 725 1
+724 725 1
+721 723 1
+722 723 1
+725 727 1
+726 727 1
+727 729 1
+728 729 1
+729 731 1
+730 731 1
+731 733 1
+732 733 1
+733 735 1
+734 735 1
+735 737 1
+736 737 1
+737 739 1
+738 739 1
+739 741 1
+740 741 1
+741 743 1
+742 743 1
+743 707 1
+744 707 1
+707 708 1
+706 708 1
+759 758 1
+760 758 1
+758 756 1
+757 756 1
+756 754 1
+755 754 1
+754 752 1
+753 752 1
+752 750 1
+751 750 1
+750 548 1
+749 748 1
+748 745 1
+747 745 1
+746 619 1
+745 619 1
+759 761 1
+760 761 1
+761 763 1
+762 763 1
+763 765 1
+764 765 1
+765 767 1
+766 767 1
+767 736 1
+768 736 1
+779 778 1
+780 778 1
+778 776 1
+777 776 1
+776 774 1
+775 774 1
+774 772 1
+773 772 1
+772 770 1
+771 770 1
+770 519 1
+769 519 1
+779 781 1
+780 781 1
+781 783 1
+782 783 1
+783 785 1
+784 785 1
+785 787 1
+786 787 1
+787 789 1
+788 789 1
+789 791 1
+790 791 1
+791 793 1
+792 793 1
+793 795 1
+794 795 1
+795 797 1
+796 797 1
+797 703 1
+798 703 1
+
+*edges
+5 6 1
+7 8 1
+9 10 1
+11 12 1
+19 20 1
+23 24 1
+27 28 1
+29 30 1
+31 32 1
+33 34 1
+37 38 1
+39 40 1
+41 42 1
+44 43 1
+44 45 1
+46 47 1
+48 49 1
+53 54 1
+57 58 1
+57 63 1
+66 67 1
+69 70 1
+71 72 1
+76 77 1
+81 82 1
+85 86 1
+88 89 1
+93 94 1
+95 96 1
+99 100 1
+104 105 1
+109 110 1
+111 112 1
+118 119 1
+124 125 1
+129 130 1
+132 133 1
+134 135 1
+138 139 1
+142 143 1
+146 147 1
+148 149 1
+150 151 1
+152 153 1
+154 155 1
+157 158 1
+159 160 1
+164 165 1
+167 168 1
+173 174 1
+175 176 1
+178 179 1
+183 184 1
+185 186 1
+185 189 1
+192 193 1
+195 196 1
+200 201 1
+208 209 1
+210 211 1
+215 216 1
+220 221 1
+225 226 1
+231 232 1
+233 234 1
+238 239 1
+243 244 1
+243 245 1
+248 249 1
+257 258 1
+259 260 1
+261 262 1
+263 264 1
+265 266 1
+267 268 1
+269 270 1
+271 272 1
+273 274 1
+275 276 1
+277 278 1
+279 280 1
+281 282 1
+283 284 1
+285 286 1
+287 288 1
+289 290 1
+291 292 1
+293 294 1
+295 296 1
+297 298 1
+299 300 1
+301 302 1
+303 304 1
+305 306 1
+307 308 1
+309 310 1
+311 312 1
+313 314 1
+315 316 1
+317 318 1
+319 320 1
+321 322 1
+323 324 1
+340 339 1
+338 337 1
+336 335 1
+334 333 1
+332 331 1
+330 329 1
+328 327 1
+326 325 1
+341 342 1
+343 344 1
+345 346 1
+347 348 1
+349 350 1
+351 352 1
+353 354 1
+355 356 1
+357 358 1
+359 360 1
+361 362 1
+362 363 1
+364 365 1
+366 367 1
+368 369 1
+370 371 1
+372 373 1
+374 375 1
+393 394 1
+392 391 1
+390 389 1
+388 387 1
+386 385 1
+384 383 1
+382 381 1
+380 379 1
+378 377 1
+395 396 1
+397 398 1
+399 400 1
+401 402 1
+403 404 1
+405 406 1
+407 408 1
+409 410 1
+411 412 1
+414 415 1
+418 419 1
+420 421 1
+422 423 1
+425 424 1
+426 427 1
+428 429 1
+430 431 1
+432 433 1
+435 434 1
+436 437 1
+438 439 1
+440 441 1
+442 443 1
+444 445 1
+446 447 1
+448 449 1
+450 451 1
+452 453 1
+454 455 1
+456 457 1
+460 459 1
+462 461 1
+464 463 1
+466 465 1
+467 468 1
+469 470 1
+471 472 1
+473 474 1
+475 476 1
+477 478 1
+479 480 1
+481 482 1
+483 484 1
+485 486 1
+487 488 1
+489 490 1
+491 492 1
+493 494 1
+495 496 1
+497 498 1
+499 500 1
+501 502 1
+503 504 1
+505 506 1
+507 508 1
+508 509 1
+510 511 1
+512 513 1
+514 515 1
+516 517 1
+518 519 1
+520 521 1
+522 523 1
+524 525 1
+527 528 1
+526 580 1
+529 530 1
+531 532 1
+533 534 1
+535 536 1
+537 538 1
+541 540 1
+542 543 1
+544 545 1
+546 547 1
+548 549 1
+550 551 1
+552 553 1
+554 555 1
+556 557 1
+558 559 1
+560 561 1
+562 563 1
+564 565 1
+566 567 1
+568 569 1
+570 571 1
+572 573 1
+574 575 1
+576 577 1
+578 579 1
+582 581 1
+584 583 1
+586 585 1
+588 587 1
+589 590 1
+591 592 1
+593 594 1
+595 596 1
+597 598 1
+599 600 1
+601 602 1
+603 604 1
+605 606 1
+607 608 1
+609 610 1
+611 612 1
+613 614 1
+616 617 1
+618 619 1
+620 621 1
+622 623 1
+624 625 1
+626 627 1
+628 629 1
+630 631 1
+632 633 1
+634 635 1
+636 637 1
+638 639 1
+640 641 1
+642 643 1
+644 645 1
+646 647 1
+648 649 1
+650 651 1
+652 653 1
+654 655 1
+656 657 1
+658 659 1
+660 661 1
+662 663 1
+664 665 1
+666 667 1
+668 669 1
+670 671 1
+672 673 1
+674 675 1
+677 676 1
+679 678 1
+681 680 1
+682 683 1
+684 685 1
+686 687 1
+688 689 1
+690 691 1
+692 693 1
+694 695 1
+696 697 1
+698 699 1
+700 701 1
+702 703 1
+704 705 1
+706 707 1
+709 710 1
+711 712 1
+713 714 1
+715 716 1
+717 718 1
+719 720 1
+721 722 1
+723 724 1
+725 726 1
+727 728 1
+729 730 1
+731 732 1
+733 734 1
+735 736 1
+737 738 1
+739 740 1
+741 742 1
+743 744 1
+745 746 1
+747 748 1
+749 750 1
+751 752 1
+753 754 1
+755 756 1
+757 758 1
+759 760 1
+761 762 1
+763 764 1
+765 766 1
+767 768 1
+770 769 1
+772 771 1
+774 773 1
+776 775 1
+778 777 1
+779 780 1
+781 782 1
+783 784 1
+785 786 1
+787 788 1
+789 790 1
+791 792 1
+793 794 1
+795 796 1
+797 798 1
